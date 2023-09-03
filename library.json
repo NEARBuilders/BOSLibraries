@@ -548,7 +548,7 @@
     },
     {
       "category": "IFrame Examples",
-      "id": "time",
+      "id": "iframe",
       "icon": "bi-frame",
       "components": [
         {
@@ -571,7 +571,7 @@
     },
     {
       "category": "Typescript",
-      "id": "time",
+      "id": "typescript",
       "icon": "bi-frame",
       "components": [
         {
