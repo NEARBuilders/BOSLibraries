@@ -595,6 +595,21 @@
         }
       ]
     },
+    {
+      "category": "AI",
+      "id": "ai",
+      "icon": "bi-frame",
+      "components": [
+        {
+          "accountId": "duocelot.near",
+          "widgetName": "AddImage_gpux"
+        },
+        {
+          "accountId": "0xprometheus.near",
+          "widgetName": "Genadrop-Ai-Minter"
+        }
+      ]
+    },
     
     {
       "category": "Widget Tools",
