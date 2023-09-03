@@ -610,6 +610,17 @@
         }
       ]
     },
+    {
+      "category": "Props",
+      "id": "props",
+      "icon": "bi-prop",
+      "components": [
+        {
+          "accountId": "ndcplug.near",
+          "widgetName": "PropsError"
+        }
+      ]
+    },
     
     {
       "category": "Widget Tools",
