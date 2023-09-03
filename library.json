@@ -547,6 +547,41 @@
       ]
     },
     {
+      "category": "IFrame Examples",
+      "id": "time",
+      "icon": "bi-frame",
+      "components": [
+        {
+          "accountId": "azbang.near",
+          "widgetName": "StakeHERE"
+        },
+        {
+          "accountId": "efiz.near",
+          "widgetName": "Mapbox"
+        },
+        {
+          "accountId": "efiz.near",
+          "widgetName": "Mapbox"
+        },
+        {
+          "accountId": "itexpert120-contra.near",
+          "widgetName": "Calendar"
+        }
+      ]
+    },
+    {
+      "category": "Typescript",
+      "id": "time",
+      "icon": "bi-frame",
+      "components": [
+        {
+          "accountId": "frol.near",
+          "widgetName": "bos-component-ts-starter.pages.homepage"
+        }
+      ]
+    },
+    
+    {
       "category": "Widget Tools",
       "id": "tools",
       "icon": "bi-tools",
