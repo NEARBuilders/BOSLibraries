@@ -525,6 +525,21 @@
       ]
     },
     {
+      "category": "Social Feeds",
+      "id": "feeds",
+      "icon": "bi-envelope-paper",
+      "components": [
+        {
+          "accountId": "astraplusplus.ndctools.near",
+          "widgetName": "Feed.index"
+        },
+        {
+          "accountId": "proofofvibes.near",
+          "widgetName": "Vibes.Feed.main"
+        }
+      ]
+    },
+    {
       "category": "Markdown",
       "id": "markdown",
       "icon": "bi-markdown",
